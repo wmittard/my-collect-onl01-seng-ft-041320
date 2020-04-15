@@ -1,6 +1,6 @@
-def my_collect(array)
+def my_collection(array)
   i = 0 
-  while i < array.length 
+ new_collection = []
   collection << (array[i])
   i += 1 
 end
